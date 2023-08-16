@@ -22,33 +22,28 @@ encapsularlos en una estructura coherente.
 
 * Clase Vehiculo
 
-<p align="center">
-    <img src="Imagenes/Abstraccion/vehiculo.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/b9f0cfdd-24df-4801-b2eb-74aa0b50c9fe)
+
+
 
 * Clase Carro
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/c3614a5b-8afd-4e3f-857c-f362fa8b83bc)
 
-<p align="center">
-    <img src="Imagenes/Abstraccion/carro.png" width="560">
-</p>
 
 * Clase Motocicleta
 
-<p align="center">
-    <img src="Imagenes/Abstraccion/moto.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/931f35ec-c212-44d3-9b95-bf3a9396d56c)
+
 
 * Clase Main
 
-<p align="center">
-    <img src="Imagenes/Abstraccion/main.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/3262fb5b-4c98-4b20-86ff-57e5944b4419)
+
 
 * RESULTADO
 
-<p align="center">
-    <img src="Imagenes/Abstraccion/mostrar.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/55da47b7-7772-4331-b592-7443c6965301)
+
 
 
 ## *Encapsulación*
@@ -61,21 +56,17 @@ y consistencia de los datos y métodos.
 
 * Clase Estudiante
 
-<p align="center">
-    <img src="Imagenes/Encapsulacion/estudiante.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/ee7f1920-024d-4714-812f-7236885607de)
+
 
 * Clase Main
 
-<p align="center">
-    <img src="Imagenes/Encapsulacion/main.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/ed59ebe9-b675-4f72-8597-e283a9ad1bbe)
 
 * RESULTADO
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/826ba095-ba28-4ee9-8285-d1b5ad61a829)
 
-<p align="center">
-    <img src="Imagenes/Encapsulacion/resultado.png" width="560">
-</p>
+
 
 
 ## *Herencia*
@@ -87,34 +78,29 @@ más general a más específica.
 *Ejemplo*
 
 * Clase Empleado
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/41946773-c750-4eee-a94b-5078e19c80ed)
 
-<p align="center">
-    <img src="Imagenes/Herencia/Empleado.png" width="560">
-</p>
+
 
 * Clase Gerente
 
-<p align="center">
-    <img src="Imagenes/Herencia/Gerente.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/ebf5b878-574c-49c9-998b-b9e0dbef6ffe)
+
 
 * Clase Desarrollador
 
-<p align="center">
-    <img src="Imagenes/Herencia/Desarrollador.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/91eeaa76-c3db-4a6b-a343-30e58e64276d)
+
 
 * Clase Main
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/85b12a6d-1116-40f6-9b98-54af22a1fb2c)
 
-<p align="center">
-    <img src="Imagenes/Herencia/main.png" width="560">
-</p>
+
 
 * RESULTADO
 
-<p align="center">
-    <img src="Imagenes/Herencia/resultado.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/e1f11aba-7fc1-4440-b2aa-afc406647485)
+
 
 
 ## *Polimorfismo*
@@ -127,33 +113,28 @@ facilita la flexibilidad y la reutilización del código.
 
 * Clase Animal
 
-<p align="center">
-    <img src="Imagenes/Polimorfismo/animal.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/74eefc80-723b-48db-aaea-9ffdc9eb61d9)
+
 
 * Clase Gato
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/9ede6c7f-7eb1-4cb4-a5ac-9dd798bb5f6b)
 
-<p align="center">
-    <img src="Imagenes/Polimorfismo/gato.png" width="560">
-</p>
+
 
 * Clase Perro
 
-<p align="center">
-    <img src="Imagenes/Polimorfismo/perro.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/d8bd6cae-f0c5-4ad3-aa9e-5b03bda210f5)
+
 
 * Clase Main
 
-<p align="center">
-    <img src="Imagenes/Polimorfismo/main.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/2dcb25cc-415b-41ef-84f9-1e872306eeb6)
+
 
 * RESULTADO
 
-<p align="center">
-    <img src="Imagenes/Polimorfismo/resultado.png" width="560">
-</p>
+![image](https://github.com/Mino-Mateo/Pilares_POO/assets/117743333/b71fd9c0-05db-4199-8d0e-913f48f4585f)
+
 
 
 En síntesis, los cuatro principios cardinales de la Programación Orientada a Objetos (POO) 
