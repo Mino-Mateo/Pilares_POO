@@ -1,15 +1,16 @@
-package Polimorfismo;
+package Herencia;
 
 public class Main {
     public static void main(String[] args) {
-        Animal dog = new Perro("Willfrido");
-        Animal cat = new Gato("Chispitas");
+        Gerente nuevogerente = new Gerente("Alice", 6000, "Ventas");
+        Desarrollador nuevodesarrollador = new Desarrollador("Bob", 5000, "Java");
 
-        animalSound(dog);
-        animalSound(cat);
-    }
+        nuevogerente.trabajo();
+        nuevogerente.gestion();
+        nuevogerente.MostrarSueldo();
 
-    public static void animalSound(Animal animal) {
-        animal.sonido();
+        nuevodesarrollador.trabajo();
+        nuevodesarrollador.code();
+        nuevodesarrollador.MostrarSueldo();
     }
 }
